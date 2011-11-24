@@ -29,15 +29,16 @@ post excerpt is placed below the tittle.  If "post" then the title is
 promoted to `<h2 class="upcoming-entry-title">` and the full
 post (up to the `[more]` tag) is shown.
 
-* **null_text**: If no results are returned, shows this text.  Defaults to
-'(none)'.
+* **null_text**: If no results are returned, shows this text.
+Defaults to '(none)'.
 
 * **class_name**: If defined, adds this class name to the generated `<ul>` tag.
 Useful for custom styling.
 
 * **show_date**: if defined, the date will precede the post title
 
-* **date_format**: if writing the date, do so using this php date format
+* **date_format**: if showing the date, this php date format will be
+used.  The default is `"F j, Y"`.
 
 The output can then be further formatted using CSS.  We recommend the
 plugin [Improved Simpler
