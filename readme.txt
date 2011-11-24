@@ -42,7 +42,7 @@ Useful for custom styling.
 The output can then be further formatted using CSS.  We recommend the
 plugin [Improved Simpler
 CSS](http://wordpress.org/extend/plugins/imporved-simpler-css/) for
-easy modification to the output!
+quickly styling your upcoming events list (and your site)!
 
 Fork this plugin on
 [GitHub](http://github.com/scoskey/Simple-upcoming-wordpress-plugin)
