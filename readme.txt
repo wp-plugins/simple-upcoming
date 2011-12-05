@@ -35,10 +35,12 @@ Defaults to `(none)`.
 * **class_name**: If defined, adds this class name to the generated `<ul>` tag.
 Useful for custom styling.
 
-* **show_date**: if defined, the date will precede the post title
+* **show_date**: if defined, the date will precede the post title.
 
 * **date_format**: if showing the date, this php date format will be
-used.  The default is `"F j, Y"`, which means e.g., May 12, 2012.
+used.  See [here](http://php.net/manual/en/function.date.php) for a
+list of php date formats.  The default is `"F j, Y"`, which prints
+e.g., May 12, 2012.
 
 The output can then be further formatted using CSS.  We recommend the
 plugin [Improved Simpler
