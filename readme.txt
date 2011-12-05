@@ -25,7 +25,7 @@ You can provide multiple comma-separated category names.
 
 * **style**: One of *list* (default), *excerpt*, or *post*.  If it is
 *list*, then only the titles are shown.  If it is *excerpt*, then the
-post excerpt is placed below the tittle.  If it is *post* then the title
+post excerpt is placed below the title.  If it is *post* then the title
 is promoted to `<h2 class="upcoming-entry-title">` and the full
 post (up to the `[more]` tag) is shown.
 
