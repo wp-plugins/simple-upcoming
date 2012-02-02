@@ -1,0 +1,10 @@
+ul.upcoming .upcoming_date {
+    font-weight: bold;
+}
+ul.upcoming div.sharing {
+    display: none;
+}
+ul.upcoming.upcoming-post {
+    list-style-type: none;
+    padding-left: 0;
+}
