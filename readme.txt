@@ -71,7 +71,7 @@ Nothing unusual here!
 
 == Changelog ==
 
-`0.3` added shortcode parameter **days_old**.
+`0.3` added the shortcode parameter **days_old**.
 
 `0.2.1` bug fix: the default event date was the start of 1970 rather
 than no date at all.
